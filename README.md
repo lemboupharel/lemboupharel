@@ -17,7 +17,7 @@ I build scalable systems, automate everything, and love exploring how things bre
 ## 🛠️ Skills
 
 **DevOps:** Docker, CI/CD, GitHub Actions, Automation  
-**Backend:** Python, Node.js, Rust (exploring), APIs  
+**Backend:** Python, Node.js, C/C++, Rust, APIs  
 **Security:** Recon, Hardening, Auditing  
 
 ---
