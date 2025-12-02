@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👋 Hi, I'm Pharel
 
-<!--
-**lemboupharel/lemboupharel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 DevOps | Backend Developer | Cybersecurity Enthusiast
 
-Here are some ideas to get you started:
+I’m a passionate developer who loves designing scalable systems, automating everything possible, and building secure, reliable infrastructure.  
+I enjoy exploring how systems break — and how to harden them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🐧 Linux Enjoyer  
+I use Linux every day and it's my favorite environment for development, security research, and DevOps work.
+
+```txt
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+```
+
+**Favorite Distro:** Arch Linux (BTW I use Arch 😄)
+
+---
+
+## 🛠️ Technologies & Skills
+
+### 🔧 DevOps
+- Docker  
+- CI/CD  
+- GitHub Actions  
+- Automation  
+- Scripting  
+
+### 💻 Backend Development
+- Python  
+- Node.js  
+- APIs  
+- Performance optimization  
+
+### 🔐 Cybersecurity
+- Offensive security basics  
+- System hardening  
+- Reconnaissance  
+- Security auditing  
+
+### 🐧 Linux
+- System administration  
+- Custom tooling  
+- Troubleshooting  
+
+---
+
+## 🌱 What I'm Learning
+- Advanced cloud infrastructure  
+- Container orchestration  
+- More offensive & defensive security techniques  
+
+---
+
+## 📫 Contact
+Feel free to reach out or collaborate on something cool!
+
+---
+
+*Made with ❤️ on Linux*
