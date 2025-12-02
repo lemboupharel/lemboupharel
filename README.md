@@ -35,7 +35,8 @@ I use Linux every day and it's my favorite environment for development, security
 
 ### 💻 Backend Development
 - Python  
-- Node.js  
+- Node.js
+- 🦀 Rust explorer
 - APIs  
 - Performance optimization  
 
