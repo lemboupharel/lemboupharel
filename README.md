@@ -2,14 +2,9 @@
 
 ## 🚀 DevOps | Backend Developer | Cybersecurity Enthusiast
 
-I’m a passionate developer who loves designing scalable systems, automating everything possible, and building secure, reliable infrastructure.  
-I enjoy exploring how systems break — and how to harden them.
+I build scalable systems, automate everything, and love exploring how things break (so I can secure them 😄).
 
----
-
-### 🐧 Linux Enjoyer  
-I use Linux every day and it's my favorite environment for development, security research, and DevOps work.
-
+### 🐧 Linux Enjoyer
 ```txt
         .--.
        |o_o |
@@ -19,50 +14,20 @@ I use Linux every day and it's my favorite environment for development, security
     /'\_   _/`\
     \___)=(___/
 ```
+## 🛠️ Skills
 
-**Favorite Distro:** Arch Linux (BTW I use Arch 😄)
-
----
-
-## 🛠️ Technologies & Skills
-
-### 🔧 DevOps
-- Docker  
-- CI/CD  
-- GitHub Actions  
-- Automation  
-- Scripting  
-
-### 💻 Backend Development
-- Python  
-- Node.js
-- 🦀 Rust explorer
-- APIs  
-- Performance optimization  
-
-### 🔐 Cybersecurity
-- Offensive security basics  
-- System hardening  
-- Reconnaissance  
-- Security auditing  
-
-### 🐧 Linux
-- System administration  
-- Custom tooling  
-- Troubleshooting  
+**DevOps:** Docker, CI/CD, GitHub Actions, Automation  
+**Backend:** Python, Node.js, Rust (exploring), APIs  
+**Security:** Recon, Hardening, Auditing  
 
 ---
 
-## 🌱 What I'm Learning
-- Advanced cloud infrastructure  
-- Container orchestration  
-- More offensive & defensive security techniques  
+## 🌱 Learning
+Cloud architecture • Container orchestration • Advanced security  
 
 ---
 
-## 📫 Contact
-Feel free to reach out or collaborate on something cool!
-
----
+## 📫 Reach Out
+Open to collaborations and cool ideas.
 
 *Made with ❤️ on Linux*
