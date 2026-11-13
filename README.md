@@ -1,14 +1,27 @@
-![Software. Systems. Security. Build with purpose. Understand the whole system.](./assets/engineering-banner.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/engineering-banner.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/engineering-banner-light.svg">
+  <img alt="Software. Systems. Security. Build with purpose. Understand the whole system." src="./assets/engineering-banner.svg" width="1200">
+</picture>
 
-# Lembou Pharel
+<h1 align="center">Lembou Pharel</h1>
 
-**Software & Systems Engineer · Backend · DevSecOps · Application Security · Applied AI**
+<p align="center">
+  <strong>Software &amp; Systems Engineer</strong><br>
+  Backend &amp; APIs &nbsp; · &nbsp; DevSecOps &nbsp; · &nbsp; Application Security &nbsp; · &nbsp; Applied AI
+</p>
+
+<p align="center">
+  <a href="https://pharel.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0969DA?style=for-the-badge" height="28"></a>
+  <a href="https://www.linkedin.com/in/lembou-pharel/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-253349?style=for-the-badge" height="28"></a>
+  <a href="https://hackerone.com/lembou"><img alt="HackerOne" src="https://img.shields.io/badge/HackerOne-253349?style=for-the-badge" height="28"></a>
+  <a href="https://medium.com/@pharellembou"><img alt="Writing" src="https://img.shields.io/badge/Writing-253349?style=for-the-badge" height="28"></a>
+  <a href="mailto:lemboupharel@proton.me"><img alt="Email" src="https://img.shields.io/badge/Email-087F8C?style=for-the-badge" height="28"></a>
+</p>
 
 I build backend services, deploy the infrastructure they run on, and investigate the security boundaries between them. My work connects practical software engineering with Linux operations, vulnerability research, and AI-powered tools.
 
 Based in **Yaoundé, Cameroon**. Building independently since **2024**. Open to remote engineering roles and focused technical collaborations.
-
-**[Portfolio](https://pharel.dev)** &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/lembou-pharel/) &nbsp; / &nbsp; [HackerOne](https://hackerone.com/lembou) &nbsp; / &nbsp; [Writing](https://medium.com/@pharellembou) &nbsp; / &nbsp; **[Get in touch](mailto:lemboupharel@proton.me)**
 
 ---
 
@@ -48,6 +61,17 @@ A French-language transport-data application for collecting trips, exploring rou
 **More in my portfolio:** [MboaGuard](https://pharel.dev/projects/mboaguard) — AI-assisted security assessment · [OpenSwitchAI](https://pharel.dev/projects/openswitchai) — unified model-provider routing · [PayNow WA](https://pharel.dev/projects/paynow-wa) — WhatsApp-connected payment workflows. These are **prototypes**, with scope and implementation details in their project pages.
 
 ## Technical toolkit
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-161B22?style=flat-square&amp;logo=python&amp;logoColor=79C0FF" height="26">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&amp;logo=typescript&amp;logoColor=79C0FF" height="26">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&amp;logo=nodedotjs&amp;logoColor=7EE7C1" height="26">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&amp;logo=postgresql&amp;logoColor=79C0FF" height="26">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-161B22?style=flat-square&amp;logo=docker&amp;logoColor=79C0FF" height="26">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-161B22?style=flat-square&amp;logo=linux&amp;logoColor=7EE7C1" height="26">
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-161B22?style=flat-square&amp;logo=gnubash&amp;logoColor=7EE7C1" height="26">
+  <img alt="Git" src="https://img.shields.io/badge/Git-161B22?style=flat-square&amp;logo=git&amp;logoColor=79C0FF" height="26">
+</p>
 
 | Area | Technologies & practice |
 | :--- | :--- |
